@@ -6,8 +6,8 @@ This project provides an exploratory data analysis (EDA) on a dataset related to
 ## Contents
 - [Collecting Data](notebooks/collecting_data.ipynb)
 - [Exploring Data](notebooks/eda_data.ipynb)
-- [Questions](question_analyzing.ipynb)
-- [Challenges, Lessons and Future Development](challenge_future-development.md)
+- [Questions](notebooks/question_analyzing.ipynb)
+- [Challenges, Lessons and Future Development](notebooks/challenge_future-development.md)
 
 ## Others
 - [Project Drive](https://drive.google.com/drive/folders/1LnMBIxSfY-UkqbHtRNqMDWfc7anfXspi)
