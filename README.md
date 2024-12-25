@@ -4,10 +4,10 @@
 This project provides an exploratory data analysis (EDA) on a dataset related to global air quality. The goal is to gain insights into air pollution levels, identify trends, and answer key questions that can inform environmental policies and public awareness.
 
 ## Contents
-- [Collecting Data](notebooks/collecting_data.ipynb)
-- [Exploring Data](notebooks/eda_data.ipynb)
-- [Questions](notebooks/question_analyzing.ipynb)
-- [Challenges, Lessons and Future Development](notebooks/challenge_future-development.md)
+- [Collecting Data](notebooks/1-collecting_data.ipynb)
+- [Exploring Data](notebooks/2-eda_data.ipynb)
+- [Questions](notebooks/3-question_analyzing.ipynb)
+- [Challenges, Lessons and Future Development](notebooks/4-challenge_future-development.md)
 
 ## Others
 - [Project Drive](https://drive.google.com/drive/folders/1LnMBIxSfY-UkqbHtRNqMDWfc7anfXspi)
