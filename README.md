@@ -54,3 +54,15 @@ This project is done by the CapyData group, class CLC2425HK1_CSC17104_22KHDL, Un
 | 22127234   | Cao Hoàng Lộc          |
 | 22127440   | Phan Võ Minh Tuệ       |
 | 22127450   | Phạm Anh Văn           |
+
+## References
+
+1. Ali, W. (n.d.). Global Air Quality Dataset. Retrieved from https://www.kaggle.com/datasets/waqi786/global-air-quality-dataset
+2. Plotly. (n.d.). Plotly Express and Graph Objects Documentation. Retrieved from https://plotly.com/python/
+3. Food Navigator. (2023, February 13). Deforestation in Brazil's Amazon falls in first month under Lula. Retrieved from https://www.foodnavigator.com/Article/2023/02/13/deforestation-in-brazil-s-amazon-falls-in-first-month-under-lula/
+4. News.com.au. (2023). El Niño threatens to cause bad and big bushfire year in 2023. Retrieved from https://www.news.com.au/technology/environment/climate-change/el-nino-threatens-to-cause-bad-and-big-bushfire-year-in-2023/news-story/d9e6c617e63c8ee258c34cd5eb386f77
+5. World Population Review. (n.d.). City Data. Retrieved from https://worldpopulationreview.com/cities
+6. New York State Department of Environmental Conservation. (n.d.). Vehicle Emission Standards: Retrofitting Trucks for Cleaner Air. Retrieved from https://www.c40.org/case-studies/cities100-new-york-city-retrofitting-trucks-for-cleaner-air
+7. New York State Department of Environmental Conservation. (2024). Retrofitting Programs: Reducing Nitrogen Oxides (NOx) and Particulate Matter (PM). Retrieved from https://dec.ny.gov/sites/default/files/2024-01/218act.pdf
+8. Ministry of the Environment, Japan. (n.d.). Emission Control Measures in Tokyo, Japan (2003–2010). Retrieved from https://pmc.ncbi.nlm.nih.gov/articles/PMC7167368/
+9. Ministry of the Environment, Japan. (n.d.). Japan's Environmental Quality Standards for PM2.5. Retrieved from https://www.env.go.jp/en/air/aq/aq.html
