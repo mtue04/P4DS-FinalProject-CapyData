@@ -43,7 +43,7 @@ Make sure to run all the necessary cells in order (from top to bottom) to ensure
 Ensure you follow the order of notebooks as specified to maintain the correct flow of the project.
 
 
-## Others
+## Others (Timeline plan, Meeting notes and Github Link)
 - [Project Drive](https://drive.google.com/drive/folders/1LnMBIxSfY-UkqbHtRNqMDWfc7anfXspi)
 
 ## Contributors
